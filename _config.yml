@@ -35,27 +35,27 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Non-stop Revelry 🍷
+  - title                                 : Non-stop Revelry
     description                           : We’ll bond over hilarious inside jokes and engaging games. Excited to dive in here, soon!
     fontawesome_icon_name                 : gift
     
-  - title                                 : Santa’s Sack 🎅🏻
+  - title                                 : Santa’s Sack
     description                           : Your Secret Santa will deliver the gift they’ve been saving just for you! Try to guess what happens.
     fontawesome_icon_name                 : candy-cane
 
-  - title                                 : Jolly Holly Moment 📸
+  - title                                 : Jolly Holly Moment
     description                           : Let’s capture these precious memories we make together and keep them forever.
     fontawesome_icon_name                 : gifts
 
-  - title                                 : Party Together 🤞🏻
+  - title                                 : Party Together
     description                           : You will not be let down by the exquisite Western-style meal: grilled pork ribs, pasta, whiskey, ginger beer,…
     fontawesome_icon_name                 : sleigh
     
-  - title                                 : Christmas Tree Light-up 🎄
+  - title                                 : Christmas Tree Light-up
     description                           : It’s a lovely Christmas as we do everything together. From putting up the tree to eating, drinking, and being merry.
     fontawesome_icon_name                 : holly-berry
 
-  - title                                 : World Cup Vibes ⚽️
+  - title                                 : World Cup Vibes
     description                           : That’s right, we’ll wrap up the festivities by relaxing and watching the World Cup’s final together.
     fontawesome_icon_name                 : spa
 
