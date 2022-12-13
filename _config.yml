@@ -2,20 +2,20 @@
 page_title                                : X'mas Circus 🎄                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : vn                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             : https://www.addevent.com/event/zV15742023                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    :                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : https://cdn.dribbble.com/users/1848688/screenshots/14784096/media/379aea195a2f07aef3d61a6a160d4d62.jpg?compress=1&resize=1600x1200&vertical=top                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : X'mas Circus 🎄                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Coming soon 👀                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : X'mas Circus Party 🎄                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Coming soon 👀                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : See you @ 14:00 18th December 2022 🙌🏻
 
-enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
@@ -35,46 +35,62 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Non-stop Revelry 🍷
-    description                           : We’ll bond over hilarious inside jokes and engaging games. Excited to dive in here, soon!
-    fontawesome_icon_name                 : gift
+  - title                                 : GitHub Pages Jekyll Theme
+    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    fontawesome_icon_name                 : magic
     
-  - title                                 : Santa’s Sack 🎅🏻
-    description                           : Your Secret Santa will deliver the gift they’ve been saving just for you! Try to guess what happens.
-    fontawesome_icon_name                 : candy-cane
+  - title                                 : iPhone Device Preview
+    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    fontawesome_icon_name                 : mobile
 
-  - title                                 : Jolly Holly Moment 📸
-    description                           : Let’s capture these precious memories we make together and keep them forever.
-    fontawesome_icon_name                 : gifts
+  - title                                 : Video Support
+    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    fontawesome_icon_name                 : play-circle
 
-  - title                                 : Party Together 🤞🏻
-    description                           : You will not be let down by the exquisite Western-style meal: grilled pork ribs, pasta, whiskey, ginger beer,…
-    fontawesome_icon_name                 : sleigh
-    
-  - title                                 : Christmas Tree Light-up 🎄
-    description                           : It’s a lovely Christmas as we do everything together. From putting up the tree to eating, drinking, and being merry.
-    fontawesome_icon_name                 : holly-berry
+  - title                                 : Automatic Icon and Metadata
+    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    fontawesome_icon_name                 : sync
 
-  - title                                 : World Cup Vibes ⚽️
-    description                           : That’s right, we’ll wrap up the festivities by relaxing and watching the World Cup’s final together.
-    fontawesome_icon_name                 : spa
+  - title                                 : Easy to Tweak
+    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : adjust
+  
+  - title                                 : Feature List
+    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Smart App Banner
+    description                           : Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+  - title                                 : Social Links
+    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : link
+
+  - title                                 : FontAwesome Support
+    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : info-circle
+
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.2
+topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : https://i.pinimg.com/564x/55/56/51/5556517802fa71a800eee6afa9ae9e87.jpg                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.6
+cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#328164"
+link_color                                : "#1d63ea"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -83,7 +99,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#328164"
+feature_icons_foreground_color            : "#1d63ea"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
