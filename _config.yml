@@ -10,7 +10,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : https://cdn.dribbble.com/users/1848688/screenshots/14784096/media/379aea195a2f07aef3d61a6a160d4d62.jpg?compress=1&resize=1600x1200&vertical=top                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : https://cdn.dribbble.com/users/94598/screenshots/7211890/media/42a171f93fb82c671c005c8eaf4b3f4c.png?compress=1&resize=800x800&vertical=center                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : X'mas Circus Party 🎄                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Coming soon 👀                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : See you @ 14:00 18th December 2022 🙌🏻
