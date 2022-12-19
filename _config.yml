@@ -5,15 +5,15 @@ page_title                                : X'mas Circus 🎄                   
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : vn                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             : https://www.addevent.com/event/zV15742023                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://www.tiktok.com/@circusquad22                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : https://cdn.dribbble.com/users/94598/screenshots/7211890/media/42a171f93fb82c671c005c8eaf4b3f4c.png?compress=1&resize=800x800&vertical=center                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : X'mas Circus Party 🎄                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Coming soon 👀                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : See you @ 14:00 18th December 2022 🙌🏻
+app_price                                 : Sold out 😗                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Subscribe us for more fun 🙌🏻
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -66,7 +66,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.2
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : https://i.pinimg.com/564x/55/56/51/5556517802fa71a800eee6afa9ae9e87.jpg                    # Replace with alternative image path or image URL.
+cover_image                               : https://images.unsplash.com/photo-1545608444-f045a6db6133?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.6
 
